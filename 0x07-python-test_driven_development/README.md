@@ -46,5 +46,4 @@
 ```
 8. CPython #3: Python Strings
 ```
-![alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/2c4f2b92514745519f833afdf5bc5f3eaff8c6ca.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240130T102553Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f90400498ceb208feed459d953aa6b30066dd606cdad683ca25c688087474939)
 * **File:** `102-python.c`
