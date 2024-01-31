@@ -173,9 +173,7 @@
 ```
 33. int 3/3
 ```
-
 ![alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/70f9ea0e969dfcc407a7427aba4786d87a920494.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240131%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240131T153040Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d4565e286cdf604dc061022ae1cb92215f8e71b4b79daa0bab1b2b95fa2922a3)
-
 * **File:** `105-line1.txt`
 ---
 ```
